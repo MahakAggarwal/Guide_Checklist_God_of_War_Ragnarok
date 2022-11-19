@@ -33,4 +33,4 @@ Please note that this is a third-party, fan-made application. This app is not ma
 
 
 ## Legal
-View the [Privacy Policy]() and [Terms of Use]() for the app [here]().
+View the [Privacy Policy](https://github.com/MMagg-dev/Guide_Checklist_God_of_War_Ragnarok/blob/main/legal/privacy_policy.md) and [Terms of Use](https://github.com/MMagg-dev/Guide_Checklist_God_of_War_Ragnarok/blob/main/legal/terms_of_use.md) for the app [here](https://github.com/MMagg-dev/Guide_Checklist_God_of_War_Ragnarok/tree/main/legal).
